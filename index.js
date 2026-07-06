@@ -5,4 +5,4 @@ app.use((req, res) => {
   res.json({ valid: true });
 });
 
-app.listen(80, () => console.log('listening on 80'));
+app.listen(3000);
